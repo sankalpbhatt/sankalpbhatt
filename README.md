@@ -5,7 +5,7 @@
 **sankalpbhatt/sankalpbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<h2> Hi, I'm Indian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Indian! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmale-programmer-writing-program-code-animated-illustration-in-2023--687291593170985817%2F&psig=AOvVaw2llaR6SLochVTpZ4Qq71TP&ust=1711607651824000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD3jsLpk4UDFQAAAAAdAAAAABAE" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Specialist</em></p>
 
