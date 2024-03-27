@@ -10,7 +10,7 @@
 
 <p><em>Software Specialist</em></p>
 
-[![Linkedin: sankalpbhatt](https://img.shields.io/badge/-sankalp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankalp-bhatt/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/sankalp-bhatt/))
+[![Linkedin: sankalpbhatt](https://img.shields.io/badge/-sankalp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankalp-bhatt/)]([https://www.linkedin.com/in/sankalp-bhatt/])
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
