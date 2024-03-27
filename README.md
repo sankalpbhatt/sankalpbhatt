@@ -5,8 +5,9 @@
 **sankalpbhatt/sankalpbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<h2> Hi, I'm Indian! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmale-programmer-writing-program-code-animated-illustration-in-2023--687291593170985817%2F&psig=AOvVaw2llaR6SLochVTpZ4Qq71TP&ust=1711607651824000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD3jsLpk4UDFQAAAAAdAAAAABAE" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Indian! </h2>
+<img align='right' alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 <p><em>Software Specialist</em></p>
 
 [![Linkedin: sankalpbhatt](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankalp-bhatt/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/sankalp-bhatt/))
