@@ -5,7 +5,7 @@
 **sankalpbhatt/sankalpbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<img align='right' alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align='right' alt="Coder GIF" height=150 width=250 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ## LeetCode Profile
 
@@ -26,11 +26,11 @@ const indian = {
 }
 ```
 
-💬 Ask me about "Java, Microservice and related technologies."
 <br/>
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalpbhatt&theme=dark)
 
-
+<br/>
+💬 Ask me about "Java, Kotlin, Spring Microservice and related technologies."
 
 
 <br/>
