@@ -26,11 +26,10 @@ const indian = {
 }
 ```
 
-<br/>
-![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalpbhatt&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalpbhatt&theme=solarized-light&show_icons=true)
 
-<br/>
-💬 Ask me about "Java, Kotlin, Spring Microservice and related technologies."
+
+<br/>💬 Ask me about "Java, Kotlin, Spring Microservice and related technologies."
 
 
 <br/>
