@@ -12,7 +12,7 @@
 You can check out my LeetCode profile [here](https://leetcode.com/sb0495/). Feel free to connect with me and explore my solutions!
 
 <p><em>Software Specialist</em></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpbhatt&theme=tokyonight)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -29,6 +29,8 @@ const indian = {
 💬 Ask me about "Java, Microservice and related technologies."
 <br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br/>
+![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalpbhatt&theme=dark&show_icons=true)
 
 
 
