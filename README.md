@@ -25,9 +25,13 @@ const indian = {
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
-
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalpbhatt&theme=solarized-light&show_icons=true)
 <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sankalpbhatt&theme=github_dark)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankalpbhatt&theme=github_dark)
+
+
 
 <br/>💬 Ask me about "Java, Kotlin, Spring Microservice and related technologies."
 
