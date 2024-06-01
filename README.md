@@ -17,12 +17,12 @@ You can check out my LeetCode profile [here](https://leetcode.com/sb0495/). Feel
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const indian = {
-  pronouns: "he" | "him",
-  code: [Java, Kotlin, Javascript, Shell],
-  tools: [Spring, Spring boot, Micronaut, React, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+```java
+public class Sankalp {
+    public static final String PRONOUN = "he" | "him";
+    public static final List<String> LANGUAGES = List.of("Java", "Kotlin", "Javascript", "Shell");
+    public static final List<String> TOOLS = List.of("Spring", "Spring boot", "Micronaut", "React", "Docker");
+    public static final List<String> ARCHITECTURE = List.of("microservices", "event-driven", "monolith");
 }
 ```
 |Overall stats|Language By Rep|Language By commit|
